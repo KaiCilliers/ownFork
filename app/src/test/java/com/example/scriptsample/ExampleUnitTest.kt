@@ -13,6 +13,7 @@ class ExampleUnitTest {
     // dev comment
     // featC comment
     // bug fix 131027389127471
+    // fea
     @Test
     fun addition_isCorrect() {
         assertEquals(4, 2 + 2)
