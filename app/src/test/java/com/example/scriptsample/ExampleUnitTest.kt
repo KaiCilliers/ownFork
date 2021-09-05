@@ -10,6 +10,8 @@ import org.junit.Assert.*
  * See [testing documentation](http://d.android.com/tools/testing).
  */
 class ExampleUnitTest {
+    // dev comment
+    // featC comment
     @Test
     fun addition_isCorrect() {
         assertEquals(4, 2 + 2)
@@ -36,6 +38,7 @@ class ExampleUnitTest {
     }
     @Test
     fun addition_isCorrect7() {
+        // feat B comment
         assertEquals(4, 2 + 2)
     }
 }
