@@ -36,7 +36,7 @@ class ExampleUnitTest {
     }
     @Test
     fun addition_isCorrect7() {
-        // feat A comment
+        // feat B comment
         assertEquals(4, 2 + 2)
     }
 }
