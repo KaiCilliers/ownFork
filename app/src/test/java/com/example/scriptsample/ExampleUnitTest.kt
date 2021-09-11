@@ -46,5 +46,5 @@ class ExampleUnitTest {
         assertEquals(4, 2 + 2)
     }
     // bugfix 4.5.1
-    // hello
+    // hello 2
 }
