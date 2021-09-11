@@ -47,4 +47,5 @@ class ExampleUnitTest {
     }
     // bugfix 4.5.1
     // hello 6
+    // ate
 }
