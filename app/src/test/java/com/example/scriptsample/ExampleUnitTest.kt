@@ -15,6 +15,7 @@ class ExampleUnitTest {
     // bug fix 131027389127471
     // fea
     // feat new
+    // release 4.5.0
     @Test
     fun addition_isCorrect() {
         assertEquals(4, 2 + 2)
@@ -44,4 +45,5 @@ class ExampleUnitTest {
         // feat B comment
         assertEquals(4, 2 + 2)
     }
+    // bugfix 4.5.1
 }
