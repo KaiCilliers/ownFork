@@ -50,6 +50,8 @@ class FirstFragment : Fragment() {
         super.onDestroyView()
         _binding = null
         // TODO [E02-002] [i_solved_a_hotfix] yaya
+        // TODO [E02-002] [v2_i_solved_a_hotfix] yaya
+        // TODO [E02-002] [v3_i_solved_a_hotfix] yaya
         println("")
     }
 }
