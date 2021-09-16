@@ -29,7 +29,7 @@ class FirstFragment : Fragment() {
 
     }
     // TODO [E01-037] [Cool Title] When we call onDestroy we need to say goodbye v2
-    // TODO [E01-037] [Cool Titleasdnasdas] When we call onDestroy we need to say goodbye v2
+    // TODO [E01-037] [CoolTitleasdnasdas] When we call onDestroy we need to say goodbye v2
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
