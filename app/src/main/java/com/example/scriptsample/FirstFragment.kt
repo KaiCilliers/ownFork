@@ -19,6 +19,7 @@ class FirstFragment : Fragment() {
     // onDestroyView.
     private val binding get() = _binding!!
 
+    // TODO Call setup when creating view
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?
     ): View? {
@@ -36,6 +37,7 @@ class FirstFragment : Fragment() {
         }
     }
 
+    // TODO [E01-037] [**Cool Title :)**] When we call onDestroy we need to say goodbye
     override fun onDestroyView() {
         super.onDestroyView()
         _binding = null
