@@ -15,6 +15,7 @@ class FirstFragment : Fragment() {
     // toDO [E0-002] [this_is_a_title_without_spaces] a helpful description
     // TODO [E0-002] [this_is_a_title_without_spaces_AGAIN] a helpful description
     // TODO [E02-002] [sigh_this_is_a_title_without_spaces_AGAIN] a helpful description here we are agiang
+    // TODO [E02-002] [sigh_this_is_a_title_without_spaces_AGAIN] a helpful description here we are agiang
     private var _binding: FragmentFirstBinding? = null
 
     // This property is only valid between onCreateView and
@@ -22,6 +23,7 @@ class FirstFragment : Fragment() {
     // TODO standard
     // TODO standardv2
     // TODO standardv3
+    // TODO standardv3g
     private val binding get() = _binding!!
 
     // TODO Call setup when creating view
