@@ -12,7 +12,7 @@ import com.example.scriptsample.databinding.FragmentFirstBinding
  * A simple [Fragment] subclass as the default destination in the navigation.
  */
 class FirstFragment : Fragment() {
-
+    // toDO [E0-002] [this_is_a_title_without_spaces] a helpful description
     private var _binding: FragmentFirstBinding? = null
 
     // This property is only valid between onCreateView and
