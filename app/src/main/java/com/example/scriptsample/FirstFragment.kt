@@ -49,5 +49,7 @@ class FirstFragment : Fragment() {
     override fun onDestroyView() {
         super.onDestroyView()
         _binding = null
+        // TODO [E02-002] [i_solved_a_hotfix] yaya
+        println("")
     }
 }
