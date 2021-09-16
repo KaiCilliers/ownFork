@@ -13,11 +13,13 @@ import com.example.scriptsample.databinding.FragmentFirstBinding
  */
 class FirstFragment : Fragment() {
     // toDO [E0-002] [this_is_a_title_without_spaces] a helpful description
+    // TODO [E0-002] [this_is_a_title_without_spaces_AGAIN] a helpful description
     private var _binding: FragmentFirstBinding? = null
 
     // This property is only valid between onCreateView and
     // onDestroyView.
     // TODO standard
+    // TODO standardv2
     private val binding get() = _binding!!
 
     // TODO Call setup when creating view
