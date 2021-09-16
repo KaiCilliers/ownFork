@@ -23,12 +23,12 @@ class FirstFragment : Fragment() {
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?
     ): View? {
-
+        // TODO Call setup when creating view v2
         _binding = FragmentFirstBinding.inflate(inflater, container, false)
         return binding.root
 
     }
-
+    // TODO [E01-037] [**Cool Title :)**] When we call onDestroy we need to say goodbye v2
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
