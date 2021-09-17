@@ -25,6 +25,7 @@ class ExampleUnitTest {
         assertEquals(4, 2 + 2)
     }
     @Test
+    // TODO [E02-009] [FROM_RELEASE] yaya
     fun addition_isCorrect3() {
         assertEquals(4, 2 + 2)
     }
