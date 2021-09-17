@@ -63,6 +63,7 @@ class FirstFragment : Fragment() {
         // TODO [E02-002] [v11_i_solved_a_hotfix] yaya
         // TODO [E02-002] [v12_i_solved_a_hotfix] yaya
         // TODO NORMAL
+        // TODO [E02-002] [FEATURE] yaya
         println("")
     }
 }
