@@ -16,6 +16,7 @@ class TimberLoggerProperty<T : Any>(private val tag: String? = null) :
 // aidniawdnad
     @Volatile var logger: TimberLogger? = null
 var some = ""
+    // todo [E07-004] [awesome_title] my awesome description
     override fun getValue(thisRef: T, property: KProperty<*>): TimberLogger {
         logger?.let { return it }
         logger = TimberLogger(thisRef, tag)
