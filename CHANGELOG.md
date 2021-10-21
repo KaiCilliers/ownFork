@@ -3,7 +3,7 @@ asds
 
 validate arguments
 clean project
-build pr
+build prasdasd
 unit
 inte
 ass

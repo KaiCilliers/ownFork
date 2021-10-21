@@ -10,6 +10,7 @@ class Logging {
 //asdljasldjasldasdada
 
 // todo man
+// todo ok
 class TimberLoggerProperty<T : Any>(private val tag: String? = null) :
     ReadOnlyProperty<T, TimberLogger> {
 
