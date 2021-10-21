@@ -18,13 +18,14 @@ class MainActivity : AppCompatActivity() {
 //44433adadad
     // todo nice one
     // todo cool one
+    // todo plain one ()()()()[][][
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        //
+        // TODO [E07-003] [nnnnnnnnn] adojawodawda
         setSupportActionBar(binding.toolbar)
 
         val navController = findNavController(R.id.nav_host_fragment_content_main)
