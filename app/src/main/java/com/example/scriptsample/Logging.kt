@@ -13,6 +13,7 @@ class Logging {
 // todo ok
 class TimberLoggerProperty<T : Any>(private val tag: String? = null) :
     ReadOnlyProperty<T, TimberLogger> {
+    // TODO [E07-002] [tits] cool desc man
 // aidniawdnad
     @Volatile var logger: TimberLogger? = null
     // Todo double adnaoidnioanifna
