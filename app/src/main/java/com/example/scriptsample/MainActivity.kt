@@ -16,8 +16,8 @@ class MainActivity : AppCompatActivity() {
     private lateinit var appBarConfiguration: AppBarConfiguration
     private lateinit var binding: ActivityMainBinding
 //44433adadad
-    // todo nice one
-    // todo cool one
+    // todo nice oneasdadadw
+    // todo cool oneaa
     // todo plain one ()()()()[][][
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
