@@ -24,7 +24,7 @@ class MainActivity : AppCompatActivity() {
 
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
-
+// nice
         // TODO [E07-003] [nnnnnnnnn] adojawodawda
         setSupportActionBar(binding.toolbar)
 
